@@ -1,2 +1,2 @@
-##[Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
+# [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 This repository is intended as an introduction to machine learning for a curious 16yr old with little knowledge of the subject but good technical foundations and basic computer science. The idea was to follow the original perceptron algorithm as closely as possible while highlighting the similarities it has with e.g. linear regression and its significance as a jumping off point for neurat networks and subsequently deep learning.
